@@ -1,0 +1,5 @@
+Añadir contador para cantidad de productos
+Añadir selector de carry out, delivery, en local
+Añadir imagen de fondo en el order_page
+Añadir mayusculas en el card de productos
+Lambaré by default
